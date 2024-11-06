@@ -1,0 +1,9 @@
+{
+    "version": "0.10",
+    "juegos": [
+        {
+            "nombre": "Juego1",
+            "url": "https://gamejolt.com/get/build?game=865362&build=1533576"
+        }
+    ]
+}
